@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🧬 Drug-Target Interaction (DTI) Predictor
 
 A Deep Learning system built using **PyTorch**, **RDKit**, and **Streamlit** to predict the binding affinity and interaction between small-molecule drugs and target protein sequences.
